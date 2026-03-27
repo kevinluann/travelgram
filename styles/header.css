@@ -1,3 +1,7 @@
+header {
+   background-color: var(--surface-color);
+}
+
 nav {
    display: flex;
    justify-content: space-between;

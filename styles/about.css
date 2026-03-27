@@ -1,9 +1,13 @@
-section {
+#sobre {
+   background-color: var(--surface-color);
+}
+
+#sobre {
    padding-block: 32px;
    font: var(--text-md);
 }
 
-section .container {
+#sobre .container {
    display: flex;
    justify-content: space-between;
    align-items: center;

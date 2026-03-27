@@ -1,3 +1,5 @@
+<img width="800" height="815" alt="preview-travelgram (1)" src="https://github.com/user-attachments/assets/7596a1eb-7cdb-4188-af9e-29226cbb6d23" />
+
 # Travelgram
 
 **Página única** de perfil de viagens, desenvolvida com HTML5 e CSS3.

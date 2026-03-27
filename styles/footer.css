@@ -1,0 +1,21 @@
+footer {
+   padding-block: 24px;
+   font: normal 14px/150% var(--font-family);
+}
+
+footer .container {
+   display: flex;
+   justify-content: space-between;
+}
+
+footer span:nth-child(1) {
+   max-width: 134px;
+   max-height: 21px;
+}
+
+footer span:nth-child(2) {
+   display: flex;
+   gap: 24px;
+   max-width: 297px;
+   max-height: 24px;
+}

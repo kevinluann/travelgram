@@ -1,8 +1,11 @@
 <div align="center">
 
+<hr />
+
 # Travelgram
 
-<img width="800" alt="preview-travelgram (1)" src="https://github.com/user-attachments/assets/7596a1eb-7cdb-4188-af9e-29226cbb6d23" />
+<img width="1200" alt="travelgram-preview" src="https://github.com/user-attachments/assets/4d981fd4-657c-4c30-84b1-4957cf45a29f" />
+
 
 **Página única** de perfil de viagens, desenvolvida com HTML5 e CSS3.
 

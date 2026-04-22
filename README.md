@@ -4,7 +4,7 @@
 
 # Travelgram
 
-<img width="1364" alt="travelgram-preview" src="https://github.com/user-attachments/assets/227b8d5e-cf85-4509-9dc0-45ed4fd5544f" />
+<img width="1200" alt="travelgram-preview" src="https://github.com/user-attachments/assets/227b8d5e-cf85-4509-9dc0-45ed4fd5544f" />
 
 **Página única** de perfil de viagens, desenvolvida com HTML5 e CSS3.
 
